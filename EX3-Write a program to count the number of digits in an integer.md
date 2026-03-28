@@ -17,11 +17,7 @@ Increment count by 1.
 
 ## Program:
 ```
-/*
-Program to to count the number of digits in an integer
-Developed by: HARIHARAN M
-RegisterNumber: 212224100019
-*/
+
 import java.util.Scanner;
 
 public class CountDigits {
