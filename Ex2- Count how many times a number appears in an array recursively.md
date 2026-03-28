@@ -12,11 +12,7 @@ To write a Java program to Count how many times a number appears in an array rec
 
 ## Program:
 ```
-/*
-Program Count how many times a number appears in an array recursively.
-Developed by: HARIHARAN M
-RegisterNumber: 212224100019  
-*/
+
 import java.util.Scanner;
 
 public class CountOccurrences {
